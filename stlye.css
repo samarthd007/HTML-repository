@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Script MT';
+    background-color: goldenrod;
+    font-size: 35px;
+    color: brown;
+    text-align: center;
+}
+p{
+    font-family: 'Imprint MT Shadow';
+    color: hotpink;
+    font-size: 30px;
+}
+div{
+    height: 300px;
+    width: 200px;
+    background: url(http://www.lifedaily.com/wp-content/uploads/2014/07/sad-love-680x380.jpg);
+}
+p.two{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+p.six{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
